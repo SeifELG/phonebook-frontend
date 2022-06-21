@@ -1,6 +1,6 @@
 # Phonebook Frontend
 
-This is the React frontend of a full stack phonebook application, created by completing the exercises of the Full Stack open 2022 course (https://fullstackopen.com/en/)
+This is the React frontend of a full stack phonebook application, created as part of the Full Stack open 2022 course (https://fullstackopen.com/en/)
 
 The full stack app is hosted live at https://boiling-cove-69257.herokuapp.com/
 
